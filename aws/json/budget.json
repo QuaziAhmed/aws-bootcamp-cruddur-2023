@@ -3,7 +3,7 @@
         "Amount": "10",
         "Unit": "USD"
     },
-    "BudgetName": "AWS BOOTCAMP BUDGET",
+    "BudgetName": "Example Tag Budget",
     "BudgetType": "COST",
     "CostFilters": {
         "TagKeyValue": [
